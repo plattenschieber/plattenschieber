@@ -8,7 +8,7 @@
 - 👨🏽‍💻 I created and maintain AXA Germanys' [ChatBot](https://entry.axa.de/hilfe/chat/) in Cologne (Germany)
 - 🌽 Next to my daily job I am providing consulting at [MAIS](http://morina.ai) 
 - 💬 Right now my favourite language is [Python](https://github.com/python/cpython)
-- 🌱 I’m currently learning Ruby and Rails 7, creating a new [business](https://github.com/plattenschieber/mais-website) and blogging about it 
+- 🌱 I’m currently learning Ruby and Rails 7, creating a new [business](https://github.com/morina-ai-solutions/mais-website) and blogging about it 
 - :pencil2: Feel free to contribute to my projects
 - :question: Ask me about anything, I am happy to help
 
