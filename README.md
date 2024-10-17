@@ -1,14 +1,13 @@
 <!-- Your title -->
-## Hey, I'm Jeronim, a ML Ops Engineer with a ❤ for NLP from Germany.
-
+## Hey, I'm Jeronim, a Machine Learning Operations Engineer with a ❤ for NLP from Germany.
 
 **About me:**
-<img width="40%" align="right" alt="Tims github stats" src="https://github.com/bloomedai/.github/assets/1213794/41e8dd03-b1a0-4d26-be29-967eff59423c" />
+<img width="40%" align="right" alt="Tims github stats" src="https://github.com/user-attachments/assets/7fb60834-5a82-4614-b782-c598e6653410" />
 
-- 👨🏽‍💻 I created and maintain AXA Germanys' [ChatBot](https://entry.axa.de/hilfe/chat/) in Cologne (Germany)
-- 🌽 Next to my daily job I am providing consulting at [bloomed AI](https://bloomedai.com/) 
-- 💬 Right now my favourite language is [Python](https://github.com/python/cpython)
-- 🌱 I’m currently learning Ruby and Rails 7, creating a new business and blogging about it 
+- 🌱 I'm creating [cozama](https://cozama.com) to help Startups get successful and help Accelerators and Investors to support the Startups efficiently. 
+- 👨🏽‍💻 I created AXA Germanys' [ChatBot](https://entry.axa.de/hilfe/chat/) which served millions of customers until today
+- 🌽 I am providing AI consulting services with my team at [bloomed AI](https://bloomedai.com/). I have a huge load of experience with cloud native applications on aws and kubernetes and everything related to CI/CD 
+- 💬 My favourite programming language is [Python](https://github.com/python/cpython), but I'm creating cozama with [Ruby on Rails](https://rubyonrails.org)
 - :pencil2: Feel free to contribute to my projects
 - :question: Ask me about anything, I am happy to help
 
@@ -23,4 +22,3 @@
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 </p>
-
