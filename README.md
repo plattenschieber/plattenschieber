@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hey, I'm Jeronim, a Machine Learning Operations Engineer with a ❤ for NLP from Germany.
+## Hey, I'm [Jeronim](https://www.linkedin.com/in/jeronim-morina), a Machine Learning Operations Engineer with a ❤ for NLP from Germany.
 
 **About me:**
 <img width="40%" align="right" alt="Tims github stats" src="https://github.com/user-attachments/assets/7fb60834-5a82-4614-b782-c598e6653410" />
